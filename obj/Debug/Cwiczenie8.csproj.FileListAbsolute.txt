@@ -1,0 +1,6 @@
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenie8\Cwiczenie8\bin\Debug\Cwiczenie8.exe.config
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenie8\Cwiczenie8\obj\Debug\Cwiczenie8.csprojResolveAssemblyReference.cache
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenie8\Cwiczenie8\bin\Debug\Cwiczenie8.exe
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenie8\Cwiczenie8\bin\Debug\Cwiczenie8.pdb
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenie8\Cwiczenie8\obj\Debug\Cwiczenie8.exe
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenie8\Cwiczenie8\obj\Debug\Cwiczenie8.pdb
